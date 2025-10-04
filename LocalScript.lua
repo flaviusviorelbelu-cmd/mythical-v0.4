@@ -298,8 +298,7 @@ local function createUI()
 	content.BackgroundTransparency = 1
 
 	createGardenTab(content)
-	createS
-Tab(content)
+	createSeedTab(content)
 	createShopTab(content)
 	createHarvestTab(content)
 	createStatsTab(content)
